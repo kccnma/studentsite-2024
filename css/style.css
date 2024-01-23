@@ -1,0 +1,17 @@
+/* GLOBAL RESET */
+body { margin: 0;}
+
+/* SITE HEADER */
+.site-header {
+    background-color: yellow;
+}
+
+/* SITE MAIN */
+.site-main {
+    background-color: pink;
+}
+
+/* SITE FOOTER */
+.site-footer {
+    background-color: orange;
+}
